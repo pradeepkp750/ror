@@ -1,0 +1,2 @@
+class Pradeep < ApplicationRecord
+end
